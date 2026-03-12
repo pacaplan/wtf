@@ -41,7 +41,7 @@ Look at a piece of code, tell the truth about it, and then make it better.
 
 4. **Deliver the verdict:**
 
-```
+```text
 **The Diagnosis:** [One-sentence summary of the code's condition]
 
 **What Was Wrong:**

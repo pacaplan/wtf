@@ -40,7 +40,7 @@ The user is stuck, overwhelmed, or just sat down and doesn't know where to start
 
 ### Action Plan Format
 
-```
+```text
 **Situation Assessment:** [One sentence — how bad is it, really?]
 
 **The Triage:**

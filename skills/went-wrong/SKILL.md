@@ -30,7 +30,7 @@ Something broke. Time to figure out what, why, and how we got here.
 
 ### Diagnosis Format
 
-```
+```text
 **The Symptom:** [What the user sees — the error, the failure, the broken behavior]
 
 **The Actual Problem:** [Root cause — what's really going on under the hood]

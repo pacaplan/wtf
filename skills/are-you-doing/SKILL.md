@@ -24,7 +24,7 @@ The user has hit the brakes. They want to know what's happening, what the plan i
 
 ### Status Format
 
-```
+```text
 **The Original Ask:** [What the user wanted]
 
 **What I've Done So Far:**
