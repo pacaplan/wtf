@@ -14,11 +14,7 @@ Something broke. Time to figure out what, why, and how we got here.
 
 ## Procedure
 
-1. **Gather the evidence.** Check for:
-   - Error output, stack traces, or test failures in the recent conversation
-   - If `$ARGUMENTS` describe the problem, start there
-   - Run failing commands to reproduce if needed
-   - Check recent file changes (`git diff`, `git log --oneline -10`)
+1. **Gather the evidence.** If `$ARGUMENTS` describe the problem or point to something specific (a PR, a CI failure, a log URL), start there. Otherwise, check for error output or stack traces in the recent conversation, run failing commands to reproduce, and review recent file changes.
 
 2. **Trace the causation chain.** Don't stop at the symptom:
    - Read the code at the point of failure

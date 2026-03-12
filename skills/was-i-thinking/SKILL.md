@@ -16,7 +16,7 @@ The difference from `wtf:is-this`: that skill reviews code quality and refactors
 
 ## Procedure
 
-1. **Gather the changes.** Collect both unstaged (`git diff`) and staged (`git diff --staged`) changes. If neither exists, check `git log --oneline -5` and review recent commits. If `$ARGUMENTS` specify a file, commit range, or branch, focus there.
+1. **Gather the changes.** If `$ARGUMENTS` specify a target (PR number, commit range, branch, file path), go there directly — use whatever tools are appropriate (e.g., `gh pr diff`, `git diff branch..branch`, `git show`). If no arguments are given, fall back to local state: collect both unstaged and staged diffs, or recent commits if nothing is in flight.
 
 2. **Review like a human, not a linter.** Look for the things automated tools miss:
    - Logic that made sense at 2am but doesn't now

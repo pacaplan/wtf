@@ -14,13 +14,7 @@ The user is stuck, overwhelmed, or just sat down and doesn't know where to start
 
 ## Procedure
 
-1. **Assess the current state.** Run a quick reconnaissance:
-   - `git status` — uncommitted changes? merge conflicts? detached HEAD?
-   - `git diff --stat` — how much is in flight?
-   - `git log --oneline -5` — what happened recently?
-   - Check for failing tests if a test command is obvious
-   - Look for recent error output in the conversation
-   - If `$ARGUMENTS` describe the situation, start from there
+1. **Assess the current state.** If `$ARGUMENTS` describe the situation or point to something specific (a PR, a branch, a project), start there and gather context accordingly. Otherwise, run a quick local reconnaissance: git status, recent changes, failing tests, error output in the conversation — whatever's relevant.
 
 2. **Identify all the problems.** Catalog everything that needs attention:
    - Build/test failures
