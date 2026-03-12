@@ -8,11 +8,11 @@ Ten debugging, explanation, and code review skills delivered by a surly programm
 
 It started with this:
 
-<img src="docs/images/btw-v2.png" width="602" alt="Tweet from @trq212 announcing /btw in Claude Code — a command for side chain conversations while Claude is working" />
+![Tweet from @trq212 announcing /btw in Claude Code — a command for side chain conversations while Claude is working](docs/images/btw-v2.png)
 
 So I said (jokingly, or so I thought):
 
-<img src="docs/images/comment-v2.png" width="285" alt="Comment from paulcaplan: &quot;Good but when do we get /wtf?&quot;" />
+![Comment from paulcaplan: "Good but when do we get /wtf?"](docs/images/comment-v2.png)
 
 And then I thought: WTF - why not?
 
