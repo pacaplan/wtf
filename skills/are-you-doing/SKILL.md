@@ -1,5 +1,4 @@
 ---
-name: are-you-doing
 description: >
   This skill should be used when the user asks "wtf are you doing", "what's the plan", "explain
   yourself", "where are you going with this", "stop and explain", "what are you working on",

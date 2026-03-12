@@ -1,5 +1,4 @@
 ---
-name: did-you-say
 description: >
   This skill should be used when the user asks "wtf did you say", "what just happened", "summarize
   what you did", "catch me up", "tldr", "what did you do", or wants a brutally honest summary of

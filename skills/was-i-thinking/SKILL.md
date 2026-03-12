@@ -1,5 +1,4 @@
 ---
-name: was-i-thinking
 description: >
   This skill should be used when the user asks "wtf was I thinking", "review my changes", "review
   my code", "self-review", "check my diff", "look at what I wrote", "pre-PR review", or wants a

@@ -1,5 +1,4 @@
 ---
-name: is-this
 description: >
   This skill should be used when the user asks "wtf is this", "this code is terrible", "refactor
   this", "clean this up", "code review", "this is a mess", "look at this code", "review this",

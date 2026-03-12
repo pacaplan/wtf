@@ -1,5 +1,4 @@
 ---
-name: went-wrong
 description: >
   This skill should be used when the user asks "wtf went wrong", "why is this broken", "debug this",
   "what happened", "why did this fail", "trace this error", encounters an error, stack trace,

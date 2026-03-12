@@ -1,5 +1,4 @@
 ---
-name: fix-it
 description: >
   This skill should be used when the user asks "wtf fix it", "just fix it", "make it work",
   "fix this", "stop talking and fix it", or wants the agent to skip the diagnosis monologue and

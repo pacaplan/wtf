@@ -1,5 +1,4 @@
 ---
-name: should-i-do
 description: >
   This skill should be used when the user asks "wtf should I do", "where do I start", "I'm stuck",
   "what's next", "help me prioritize", "I don't know what to do", "triage this", or needs guidance

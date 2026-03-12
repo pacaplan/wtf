@@ -1,5 +1,4 @@
 ---
-name: are-you-thinking
 description: >
   This skill should be used when the user asks "wtf are you thinking", "that's wrong", "push back",
   "are you sure", "that doesn't sound right", "re-examine", "double check that", or wants to
