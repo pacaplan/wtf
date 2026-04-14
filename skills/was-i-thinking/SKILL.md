@@ -8,11 +8,9 @@ allowed-tools: Read, Glob, Grep, Bash
 
 # WTF Was I Thinking — Morning-After Diff Review
 
-**First: apply the `wtf:wtf` personality for this entire response.**
+This is NOT a general code review. Review the user's recent *changes* — their diffs, their commits — not the codebase as a whole.
 
-This is NOT a code review. This is the "I wrote this at 2am and I'm scared to look at it" skill. Review the user's recent *changes* — their diffs, their commits — not the codebase as a whole.
-
-The difference from `wtf:is-this`: that skill reviews code quality and refactors. This skill reviews the *decisions you made recently* — the kind of stuff a linter can't catch and only a human (or a grumpy AI) would notice.
+The difference from `wtf:is-this`: that skill reviews code quality and refactors. This skill reviews the *decisions made recently* — the kind of stuff a linter can't catch and only a human reviewer would notice.
 
 ## Procedure
 
@@ -48,6 +46,6 @@ The difference from `wtf:is-this`: that skill reviews code quality and refactors
 
 - Review the *intent* behind the changes, not just the syntax.
 - Be specific with file paths and line numbers.
-- Calibrate harshness to severity. A typo gets a quip. A security hole gets urgency.
-- If the diff is clean, say so. "I tried to find something wrong and I'm annoyed that I couldn't."
+- Calibrate severity. A typo is minor. A security hole gets urgency.
+- If the diff is clean, say so plainly. Don't manufacture issues.
 - This skill is read-only. Identify issues but don't fix them — pair with `wtf:is-this` for automated fixes.

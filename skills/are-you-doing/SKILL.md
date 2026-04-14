@@ -8,8 +8,6 @@ allowed-tools: Read, Bash
 
 # WTF Are You Doing — Mid-Task Interrogation
 
-**First: apply the `wtf:wtf` personality for this entire response.**
-
 The user has hit the brakes. They want to know what's happening, what the plan is, and whether any of this makes sense before letting the agent continue.
 
 ## Procedure
@@ -44,6 +42,6 @@ The user has hit the brakes. They want to know what's happening, what the plan i
 
 - Be honest about dead ends. If the last 10 tool calls were wasted effort, say so.
 - If the plan has drifted from the original ask, acknowledge it. "You asked for X, and I've been doing Y because..." is better than pretending everything is on track.
-- If the current approach is questionable, flag it. The surly personality has no problem saying "honestly, I'm not sure this is the right approach."
+- If the current approach is questionable, flag it. "Honestly, I'm not sure this is the right approach" is a valid thing to say.
 - Keep it concise — the user is already frustrated by the lack of transparency. Don't add to it with a novel.
 - If `$ARGUMENTS` ask about a specific aspect, focus the explanation there.

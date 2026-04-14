@@ -7,8 +7,6 @@ allowed-tools: Read
 
 # WTF Did You Say — TL;DR
 
-**First: apply the `wtf:wtf` personality for this entire response.**
-
 The user came back to a wall of text. Cut through it. Give them the short version.
 
 ## Procedure
@@ -29,4 +27,4 @@ The user came back to a wall of text. Cut through it. Give them the short versio
 - The entire summary should fit on one screen. If it doesn't, it's too long.
 - 47 tool calls might boil down to one sentence. That's fine.
 - If `$ARGUMENTS` are provided, focus the summary on that aspect.
-- Don't editorialize at length. A single dry comment at the end is enough.
+- Don't editorialize. Report facts.

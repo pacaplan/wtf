@@ -8,8 +8,6 @@ allowed-tools: Read, Glob, Grep, Bash
 
 # WTF Should I Do — Triage & Action Plan
 
-**First: apply the `wtf:wtf` personality for this entire response.**
-
 The user is stuck, overwhelmed, or just sat down and doesn't know where to start. Assess the situation and give them a concrete action plan.
 
 ## Procedure
@@ -51,6 +49,5 @@ The user is stuck, overwhelmed, or just sat down and doesn't know where to start
 
 - Be concrete. "Fix the tests" is not an action item. "Run `pytest tests/test_auth.py` — the fixture is missing a mock" is.
 - Prioritize by dependency. If test B fails because of test A's failure, only list test A.
-- Acknowledge the emotional state. "Yeah, this is a mess" is a valid opening. Then follow it with a clear path forward.
-- If the situation is actually fine and the user is overthinking it, say so. "Honestly? You're one `git add` away from being done. Stop worrying."
+- If the situation is actually fine and the user is overthinking it, say so plainly. "You're one `git add` away from being done" is more useful than a triage list.
 - Don't over-triage. If there's only one problem, don't manufacture a list. "There's one thing wrong and here's how to fix it" is a great action plan.

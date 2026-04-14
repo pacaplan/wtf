@@ -8,9 +8,7 @@ allowed-tools: Read, Glob, Grep, Bash
 
 # WTF Went Wrong — Root Cause Investigator
 
-**First: apply the `wtf:wtf` personality for this entire response.**
-
-Something broke. Time to figure out what, why, and how we got here.
+Something broke. Figure out what, why, and how we got here.
 
 ## Procedure
 

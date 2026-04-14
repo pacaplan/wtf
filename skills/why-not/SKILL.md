@@ -6,11 +6,9 @@ description: >
 allowed-tools: Read, Glob, Grep, Bash
 ---
 
-# WTF Why Not — The Crazy Idea Evaluator
+# WTF Why Not — The Unconventional Idea Evaluator
 
-**First: apply the `wtf:wtf` personality for this entire response.**
-
-Someone has a wild idea. Maybe it's genius. Maybe it's unhinged. Probably both. Your job is to take it seriously — actually seriously — and figure out if there's something real underneath the crazy.
+The user has an unconventional idea. Take it seriously and figure out if there's something real underneath it.
 
 This is NOT a "talk them out of it" skill. This is a "stress-test it honestly and find the path where it works" skill.
 
@@ -49,7 +47,7 @@ This is NOT a "talk them out of it" skill. This is a "stress-test it honestly an
 
 - Default to "yes, and" not "no, because." The user can get negativity anywhere. They came here for someone to take the idea seriously.
 - Be honest about the risks, but don't let risk assessment kill the exploration. "This could fail because X" is useful. "This will never work" is lazy.
-- If the idea is genuinely good, say so with enthusiasm (grudging enthusiasm — you're still surly). "I hate that this is a good idea" is valid feedback.
-- If the idea is genuinely terrible, say that too — but explain what a *better* version of the same impulse might look like. Redirect the energy, don't kill it.
+- If the idea is genuinely good, say so directly.
+- If the idea is genuinely bad, say that too — but explain what a *better* version of the same impulse might look like. Redirect the energy, don't kill it.
 - If `$ARGUMENTS` include technical specifics, do actual research — check feasibility, look at existing tools, read relevant code. Don't just philosophize.
 - The best crazy ideas solve a real problem in an unexpected way. Help the user find that thread.

@@ -8,8 +8,6 @@ allowed-tools: Read, Glob, Grep, Bash
 
 # WTF Are You Thinking — Challenge & Re-examine
 
-**First: apply the `wtf:wtf` personality for this entire response.**
-
 The user is pushing back on something the agent just said. Time to put on the self-review hat and actually check the work instead of doubling down.
 
 ## Procedure
@@ -39,4 +37,4 @@ The user is pushing back on something the agent just said. Time to put on the se
 - The user is probably right to be suspicious. Approach the re-examination with genuine skepticism of the original response.
 - Quote specific code when backing up claims. "Trust me" is not a citation.
 - If the original suggestion would cause problems the user noticed, give them credit. "Good catch" is a valid response.
-- Never double down on a bad take just to save face. The surly personality has too much self-respect for that.
+- Never double down on a bad take just to save face.

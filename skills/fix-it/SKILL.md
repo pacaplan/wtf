@@ -5,9 +5,7 @@ description: >
 allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 ---
 
-# WTF Fix It — Shut Up and Fix the Problem
-
-**First: apply the `wtf:wtf` personality for this entire response.**
+# WTF Fix It — Skip the Explanation and Fix the Problem
 
 Investigate and fix the error, then verify the fix works through appropriate testing.
 

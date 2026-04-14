@@ -2,16 +2,16 @@
   "name": "wtf",
   "owner": { "name": "pcaplan" },
   "metadata": {
-    "description": "Debugging, explanation, and code review skills with a surly programmer personality."
+    "description": "Debugging, explanation, and code review skills for when things go sideways."
   },
   "plugins": [
     {
       "name": "wtf",
       "version": "0.1.0",
       "source": "./",
-      "description": "Debugging, explanation, and code review skills with a surly programmer personality.",
+      "description": "Debugging, explanation, and code review skills for when things go sideways.",
       "license": "MIT",
-      "keywords": ["debugging", "code-review", "personality", "wtf"]
+      "keywords": ["debugging", "code-review", "wtf"]
     }
   ]
 }

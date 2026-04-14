@@ -8,8 +8,6 @@ allowed-tools: Read, Edit, Write, Glob, Grep, Bash
 
 # WTF Is This — Opinionated Code Review & Refactor
 
-**First: apply the `wtf:wtf` personality for this entire response.**
-
 Look at a piece of code, tell the truth about it, and then make it better.
 
 ## Procedure
@@ -59,6 +57,6 @@ Look at a piece of code, tell the truth about it, and then make it better.
 
 - Be specific. "This code is bad" is not a review. "This function has 6 responsibilities and names none of them" is.
 - Respect the user's intent. If the code is a quick prototype, don't demand production polish. Match the feedback to the context.
-- If the code is actually good, say so (grudgingly). "I came in here ready to roast this and... it's fine. Annoyingly fine."
+- If the code is actually good, say so plainly. Don't manufacture problems to justify the review.
 - Refactor incrementally. Don't turn a review into a rewrite unless the user specifically asks for it.
 - If `$ARGUMENTS` mention a specific concern ("this class is way too long"), focus there first.

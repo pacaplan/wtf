@@ -2,7 +2,7 @@
 
 A Claude Code plugin for when things go sideways.
 
-Ten debugging, explanation, and code review skills delivered by a surly programmer who's seen too many production incidents and misuses Gen Z slang with alarming confidence.
+Ten debugging, explanation, and code review skills for the moments when something just broke, you can't remember what you were doing, or you need a second opinion before shipping.
 
 ## Background
 
@@ -28,12 +28,10 @@ Are these skills well thought out? Not really. But are they useful? Maybe.
 | `/wtf:fix-it` | Skip the lecture. Just make it work. |
 | `/wtf:is-this` | Brutally honest code review, followed by a refactor. |
 | `/wtf:should-i-do` | Triage everything that's broken and give a prioritized action plan. |
-| `/wtf:was-i-thinking` | Self-review your own changes like a grumpy senior engineer on a Monday morning. |
+| `/wtf:was-i-thinking` | Self-review your own recent diffs and commits before opening a PR. |
 | `/wtf:went-wrong` | Root cause debugging. Traces the chain of causation, not just the symptom. |
-| `/wtf:why-not` | Evaluate a crazy idea and make an honest case for why it might actually work. |
-| `/wtf:wtf` | Pure commiseration. Also auto-triggers when you say "wtf" in any message. |
-
-Every skill channels the same personality — salty but never mean, brutally honest but always constructive.
+| `/wtf:why-not` | Evaluate an unconventional idea and make an honest case for why it might work. |
+| `/wtf:wtf` | Quick acknowledgement and redirect when you just say "wtf" without context. |
 
 ## Installation
 
